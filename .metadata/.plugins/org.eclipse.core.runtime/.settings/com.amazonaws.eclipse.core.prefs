@@ -1,0 +1,10 @@
+b20c12c1-44fd-4721-a6f7-54d3de23900e\:credentialProfileName=Abhishek
+bd334031-bca4-4ef7-bd26-8dc92a6d6ae2\:credentialProfileName=default
+cognitoIdentityId=us-east-1\:b6be6b16-a71d-4bd0-84ea-29a4116f4070
+cognitoIdentityPoolId=us-east-1\:d4fdc07f-94fd-4cc6-94fb-f903657f05c1
+credentialProfileAccountIds=bd334031-bca4-4ef7-bd26-8dc92a6d6ae2|b20c12c1-44fd-4721-a6f7-54d3de23900e
+currentAccount=bd334031-bca4-4ef7-bd26-8dc92a6d6ae2
+currentDefaultAccount=
+ec2PreferencesImported=true
+eclipse.preferences.version=1
+mobileAnalyticsClientId=2e05bfbf-8241-4b2a-939b-e6e976250a85

@@ -1,0 +1,35 @@
+
+body {
+	background-color: #9AFEFF;
+	margin:80px 80px 100px 100px;
+}
+div#fixedheader {
+	position:fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+	
+	background-color: #00FFFF;
+	padding:20px;
+}
+div#fixedfooter {
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	
+	background-color: #00FFFF;
+	padding:8px;
+}
+button#myButton{
+	background-color: #254117;
+    border: none;
+    color: #008080;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
